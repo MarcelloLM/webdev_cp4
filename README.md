@@ -4,9 +4,7 @@ Este projeto foi desenvolvido como parte da avaliação de CP1 - WebDev.
 
 ## Integrantes
 
-* Nome do Aluno 1
-* Nome do Aluno 2
-* Nome do Aluno 3
+Marcello Lassalla - 561879
 
 ## Link da Aplicação
 
